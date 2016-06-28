@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <permission id="1" name="admin" />
+    <permission id="3" name="sysadmin" />
+    <user></user>
+</dataset>
